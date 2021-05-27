@@ -1,0 +1,55 @@
+body{
+	background-color: #333333;
+	font-family: 'Roboto', sans-serif;
+}
+legend{
+	text-align: center;
+	font-size: 33px;
+	color: white;
+}
+fieldset{
+	width: 40%;
+	background-color: #333333;
+	color: white;
+	border-color: white;
+	text-align: center;
+}
+table{
+	color: white;
+	text-align: center;
+}
+h2{
+	color: white;
+}
+footer{
+	text-align: left;
+}
+#fact{
+	color: white;
+}   		
+.main{
+	height: 500px;
+	width: auto;
+}
+#a{
+	padding: 10px;
+	text-align: left;
+	color: white;
+}
+#c{
+	padding: 10px;
+	text-align: center;
+	color: white;
+}
+#submit{
+	background-color: green;
+	color: white;
+	width: 66px;
+	height: 28px;
+}
+#reset{
+	background-color: red;
+	color: white;
+	width: 66px;
+	height: 28px;
+}
