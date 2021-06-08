@@ -12,7 +12,7 @@
 			Number: <input type="text" name="num"><br/><br/>
 			<input type="submit" name="submit"><br/><br/>
 			<?php 
-				if (isset($_GET['num'])) {
+				if (isset($_GET['submit'])) {
 					$num = $_GET['num'];
 					$fact = 1;
 					for ($x=$num; $x >0 ; $x--) { 
